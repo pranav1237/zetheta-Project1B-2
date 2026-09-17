@@ -26,6 +26,9 @@ The project combines:
 - Interactive Streamlit dashboard
 - Automated regression tests
 
+Diagram :  <img width="878" height="1029" alt="image" src="https://github.com/user-attachments/assets/2b1d3373-e5a1-4295-9ed7-8419fb09fc67" />
+
+
 ## Architecture
 
 ```text
@@ -74,8 +77,3 @@ Risk Attribution       Machine Learning
                |
                v
       Streamlit Dashboard
-
-
-#Diagram for this repo:
-
-<img width="878" height="1029" alt="image" src="https://github.com/user-attachments/assets/b5a44828-ad2f-46b9-9257-fb62f22ff0ae" />
