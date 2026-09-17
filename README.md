@@ -74,3 +74,8 @@ Risk Attribution       Machine Learning
                |
                v
       Streamlit Dashboard
+
+
+#Diagram for this repo:
+
+<img width="878" height="1029" alt="image" src="https://github.com/user-attachments/assets/b5a44828-ad2f-46b9-9257-fb62f22ff0ae" />
